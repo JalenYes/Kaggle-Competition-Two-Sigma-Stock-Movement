@@ -2,6 +2,10 @@
 
 This project, Using News to predict stock movement, is my kaggle competition. 
 
+## Data Descriptions
+
+https://www.kaggle.com/c/two-sigma-financial-news/overview
+
 
 ## Installation
 
@@ -15,9 +19,6 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [Tensorflow](https://www.tensorflow.org/)
 - [Pytorch](https://pytorch.org/)
 
-## Data Descriptions
-
-https://www.kaggle.com/c/two-sigma-financial-news/overview
 
 
 ## Licence
