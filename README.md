@@ -1,4 +1,4 @@
-#Two Sigma: Using News to Predict Stock Movement 
+# Two Sigma: Using News to Predict Stock Movement 
 
 This project, Using News to predict stock movement, is my kaggle competition. 
 
