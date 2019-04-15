@@ -1,6 +1,7 @@
-# My Solutions for Two Sigma Stock Movement
+# My Solutions for Two Sigma: Using News to Predict Stock Movement 
 
 This project, Using News to predict stock movement, is my kaggle competition. 
+
 
 ## Data Descriptions
 
